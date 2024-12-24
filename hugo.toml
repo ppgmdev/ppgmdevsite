@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Pepe Gomez'
+title = 'Pepe Gomez Mora'
 theme = 'typo'
 
 [taxonomies]
@@ -11,7 +11,7 @@ googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A tech/sports and others blog"
+description = "A tech, sports and others blog"
 
 # Appearance settings
 theme = 'auto'
@@ -20,7 +20,7 @@ hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
-homeIntroContent = """I am a Digital Systems Engineer. I currently work at AWS as a Solutions Architect. I am interested in cloud computing, engineering and sports."""
+homeIntroContent = """I am a Digital Systems Engineer. I work at AWS as a Solutions Architect. I am interested in cloud computing, engineering and sports."""
 
 # Collection to display on home
 homeCollectionTitle = 'Posts'
@@ -35,7 +35,7 @@ listDateFormat = '2 Jan 2006'
 breadcrumbs = true
 
 # Footer
-showFooter = true
+showFooter = false
 footerContent = "Hello world"
 
 # Social icons
